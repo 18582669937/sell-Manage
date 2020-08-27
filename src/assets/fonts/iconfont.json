@@ -1,0 +1,30 @@
+{
+  "id": "2022454",
+  "name": "sell-app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8006803",
+      "name": "返回上一级箭头",
+      "font_class": "fanhuishangyijijiantou",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "3165546",
+      "name": "购物车",
+      "font_class": "huabanfuben",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "8933937",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
